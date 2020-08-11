@@ -1,1 +1,5 @@
+hey, thanks for reading this and also you can run this same code at kaggle kernel with dataset.
 
+use gpu in option preference
+kaggle kernel link : https://www.kaggle.com/jawaharlakshmanan/transfer-learning-cat-vs-dog-image-classifier/ 
+linked_In link    :https://www.linkedin.com/in/jawahar-lakshmanan-32351118b
